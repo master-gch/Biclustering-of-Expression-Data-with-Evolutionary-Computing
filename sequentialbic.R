@@ -2,7 +2,7 @@
     library(matrixStats) 
     library(graphics)
     
-    wk <- read.csv('/home/priyankit/Desktop/PROJ/Biclustering of Expression Data with evolutionary computing/yeast_dataset(5x5).csv') 
+    wk <- read.csv('/yeast_dataset.csv') 
     #print(wk)
     count=0
     no_of_gen<- 2
